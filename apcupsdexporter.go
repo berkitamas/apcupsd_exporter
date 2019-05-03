@@ -5,7 +5,7 @@ package apcupsdexporter
 import (
 	"log"
 
-	"github.com/mdlayher/apcupsd"
+	"github.com/berkitamas/apcupsd"
 	"github.com/prometheus/client_golang/prometheus"
 )
 
